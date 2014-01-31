@@ -1,0 +1,24 @@
+Playground
+========================================================
+*italicizing* and **bolding**  
+and I am going to try embedding an R code chunck.  
+this is nextline on the markup, but will it be in the html???  
+
+
+does this come up as a different paragraph??
+
+```{r}
+seven <- 5*12
+seven
+```
+
+
+
+```{r}
+summary(cars)
+```
+
+I wil try now!
+```{r fig.width=7, fig.height=4}
+hist(cars$speed)
+```
