@@ -18,7 +18,7 @@ seven
 summary(cars)
 ```
 
-I wil try now!
+I wil try now!!
 ```{r fig.width=7, fig.height=4}
 hist(cars$speed)
 ```
